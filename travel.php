@@ -1,10 +1,11 @@
+<?php header('Content-type: text/html; charset=UTF-8'); ?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
 	<title>David Tang | Travel Photography</title>
 	<meta name="description" content="Travel Photographyy">
 	<?php require_once('includes/header.php'); ?>
-	<script type="text/javascript">
+	<script type="text/javascript" async>
 	var slidesContent = [{
 		image: 'photos/travel/01.jpg',
 		title: '<h2>Wat Suthat Exterior</h2> Bangkok, Thailand'

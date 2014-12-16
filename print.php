@@ -1,10 +1,11 @@
+<?php header('Content-type: text/html; charset=UTF-8'); ?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
 	<title>David Tang | Print Design</title>
 	<meta name="description" content="Print Design">
 	<?php require_once('includes/header.php'); ?>
-	<script type="text/javascript">
+	<script type="text/javascript" async>
 	var slidesContent = [{
 		image: 'photos/print/01.jpg',
 		title: '<h2>Amada</h2> Designs for exhibition booth and promotional materials'

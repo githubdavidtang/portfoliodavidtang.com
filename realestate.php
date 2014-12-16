@@ -1,10 +1,11 @@
+<?php header('Content-type: text/html; charset=UTF-8'); ?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
 	<title>David Tang | Real Estate Photography</title>
 	<meta name="description" content="Real Estate Photography">
 	<?php require_once('includes/header.php'); ?>
-	<script type="text/javascript">
+	<script type="text/javascript" async>
 	var slidesContent = [{
 		image: 'photos/realestate/01.jpg',
 		title: '<h2>Backlundagatan</h2> Malmoe, Sweden'

@@ -21,6 +21,8 @@ include('includes/copyright.php');
 ?>
 
 </div>
+
+<?php include('includes/footer-scripts.php'); ?>
 <script type="text/javascript">  
 	
 	jQuery(function($){
@@ -68,6 +70,5 @@ include('includes/copyright.php');
     });
 		    
 </script>
-<?php include('includes/footer-scripts.php'); ?>
 </body>
 </html>

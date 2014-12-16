@@ -14,7 +14,7 @@
 			</ul>
 		<h2>Contact</h2>
 			<ul>
-				<li><?php include('includes/email.php'); ?></li>
+				<li><?php require_once('includes/email.php'); ?></li>
 				<li><a href="skype:skypedavidtang?add">Skype me</a></li>
 			</ul>
 		</div>

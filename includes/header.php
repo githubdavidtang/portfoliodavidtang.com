@@ -9,15 +9,6 @@
 <!-- Stylesheets -->
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 
-<!-- jQuery -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery.supersized.3.1.3.min.js"></script>
-
-<!-- Skype Button -->
-<!--
-<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
--->
-
 <!-- Google Analytics -->
 <script type="text/javascript">
 

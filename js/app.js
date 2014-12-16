@@ -1,3 +1,5 @@
+//@prepros-prepend vendor/jquery.supersized.3.1.3.min.js
+
 $(function () {
 	/* Sidebar Navigation Toggle */
 	$('#toggle').click(function () {

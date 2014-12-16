@@ -1,0 +1,17 @@
+Options +Indexes
+Options +FollowSymlinks
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(.*)\.html$ $1.php [L]
+
+# Redirect www urls to non-www
+RewriteCond %{HTTP_HOST} ^www\.portfoliodavidtang\.com [NC]
+RewriteRule (.*) http://portfoliodavidtang.com/$1 [R=301,L]
+
+#Create friendly URL
+RewriteRule ^realestate/?$ /realestate.php
+RewriteRule ^landscape/?$ /landscape.php
+RewriteRule ^travel/?$ /travel.php
+RewriteRule ^video/?$ /video.php
+RewriteRule ^print/?$ /print.php
+RewriteRule ^web/?$ /web.php

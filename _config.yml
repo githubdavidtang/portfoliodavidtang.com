@@ -8,3 +8,8 @@ url: "http://portfoliodavidtang.com" # the base hostname & protocol for your sit
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude:
+  - CNAME
+  - README.md
+  - less/

@@ -2,7 +2,7 @@
 
 ### Under the hood
 
-* Built with HTML5, CSS3, Less, jQuery & (jQuery Supersized)[https://github.com/buildinternet/supersized]
+* Built with HTML5, CSS3, Less, jQuery & [jQuery Supersized](https://github.com/buildinternet/supersized)
 * Compiled with Jekyll
 * Hosted on Github Pages
 

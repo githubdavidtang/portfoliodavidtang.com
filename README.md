@@ -9,6 +9,8 @@
 ### Todo
 
 * Make it fully responsive (with [picturefill](https://github.com/scottjehl/picturefill))
+* Make it retina-ready: use SVG for logo / icons
+* Fix [PageSpeed issue](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fportfoliodavidtang.com%2F&tab=mobile). Scores as of 2015-07-10: Mobile Speed 68/100 | Mobile UX 84/100 | Desktop Speed 85/100
 * Automate front-end tasks with [gulp](http://gulpjs.com/): concatenation and minification of stylesheets, scripts and HTML
 * Automatically generate the sitemap using Jekyll plugin?
 * Host it on http://surge.sh/ to take advantage of their CDN network?

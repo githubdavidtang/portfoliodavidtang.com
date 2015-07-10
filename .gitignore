@@ -38,5 +38,6 @@ $RECYCLE.BIN/
 sftp-config.json
 
 
-### Prepros ###
+### Custom ###
 prepros.cfg
+_site/

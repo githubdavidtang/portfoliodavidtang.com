@@ -3,7 +3,7 @@ title: David Tang
 email: emaildavidtang@gmail.com
 description: Graphic and Web designer with passion to art and details based in Sweden.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://portfoliodavidtang.com" # the base hostname & protocol for your site
+url: "http://n2clic.github.io/portfoliodavidtang.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
